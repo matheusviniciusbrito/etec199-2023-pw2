@@ -1,8 +1,7 @@
 import inquirer from "inquirer"
 import chalk from "chalk"
 
-/* Criar um programa que leia duas notas de um usuário, calcule e
-apresente a sua média, e em seguida uma mensagem segundo a condição da
+/* Criar um programa que leia uma nota de um usuário e em seguida uma mensagem segundo a condição da
 média:
 Se a média for < 4: Reprovado
 Se a média for >=6: Aprovado.
