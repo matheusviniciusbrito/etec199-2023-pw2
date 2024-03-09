@@ -29,10 +29,10 @@ inquirer
     .then((answers) => {
         let numero = answers["num"];
 
-        while(numero >= 0 ){
-            console.log(chalk.bgGray(numero))
+        do {
+            console.log(chalk.bgGray(numero));
             numero--;
-        }
+          } while (numero >= 0);
 
     })
     .catch((error) => {
