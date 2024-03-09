@@ -23,7 +23,7 @@ inquirer
                     // Se não for um número inteiro, retorna uma mensagem de erro
                     return 'Por favor, insira um número inteiro positivo. Não é necessario executar o programa novamente';
                 }
-        }
+            }
         }
     ])
     .then((answers) => {
