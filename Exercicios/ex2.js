@@ -3,9 +3,9 @@ import chalk from "chalk"
 
 /* Criar um programa que leia uma nota de um usuário e em seguida uma mensagem segundo a condição da
 média:
-Se a média for < 4: Reprovado
-Se a média for >=6: Aprovado.
-Se a média for >=4 e <6: Recuperação 
+Se a nota for < 4: Reprovado
+Se a nota for >=6: Aprovado.
+Se a nota for >=4 e <6: Recuperação 
 */
 
 inquirer
