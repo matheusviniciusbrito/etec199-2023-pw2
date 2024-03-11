@@ -15,7 +15,7 @@ inquirer
             validate: function(value) {
                 // Verifica se a entrada é um número inteiro positivo
                 var verificarpos = Math.sign(value);
-    
+
                 if(verificarpos == 1 && value % 1 === 0 && value !== '0'){
                     // Se for um número inteiro, retorna true para passar a validação
                     return true;
@@ -32,7 +32,7 @@ inquirer
         do {
             console.log(chalk.bgGray(numero));
             numero--;
-          } while (numero >= 0);
+        } while (numero >= 0);
 
     })
     .catch((error) => {
