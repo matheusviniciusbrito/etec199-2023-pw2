@@ -4,6 +4,8 @@ import multiplicacao from "./multiplicacao.js";
 import divisao from "./divisao.js";
 import inquirer from "inquirer";
 
+//Crie um switch para escolher uma operação e depois peça dois numeros e use-os para fazer as operações utilizando modularização
+
 inquirer
     .prompt([
         {
