@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "nome": "Queijo Meia-Cura",
+        "categoria": "Laticínios",
+        "preco": 30.00,
+        "descricao": "Queijo meia-cura artesanal",
+        "quantidade_em_estoque": 20,
+        "data_de_validade": "2024-08-01",
+        "peso": "500g"
+    },
+    {
+        "id": 2,
+        "nome": "Queijo Coalho",
+        "categoria": "Laticínios",
+        "preco": 25.00,
+        "descricao": "Queijo coalho tradicional",
+        "quantidade_em_estoque": 15,
+        "data_de_validade": "2024-07-15",
+        "peso": "500g"
+    },
+    {
+        "id": 3,
+        "nome": "Biscoito de Polvilho",
+        "categoria": "Salgados",
+        "preco": 10.00,
+        "descricao": "Biscoito de polvilho crocante",
+        "quantidade_em_estoque": 50,
+        "data_de_validade": "2024-10-01",
+        "peso": "200g"
+    },
+    {
+        "id": 4,
+        "nome": "Biscoito de Polvilho Recheado com Goiaba",
+        "categoria": "Doces",
+        "preco": 12.00,
+        "descricao": "Biscoito de polvilho recheado com goiaba (goiabinha)",
+        "quantidade_em_estoque": 30,
+        "data_de_validade": "2024-09-15",
+        "peso": "250g"
+    },
+    {
+        "id": 5,
+        "nome": "Doce de Leite Cremoso",
+        "categoria": "Doces",
+        "preco": 15.00,
+        "descricao": "Doce de leite cremoso artesanal",
+        "quantidade_em_estoque": 40,
+        "data_de_validade": "2024-12-01",
+        "peso": "400g"
+    },
+    {
+        "id": 6,
+        "nome": "Doce de Leite com Geleia de Morango",
+        "categoria": "Doces",
+        "preco": 18.00,
+        "descricao": "Doce de leite com geleia de morango",
+        "quantidade_em_estoque": 25,
+        "data_de_validade": "2024-11-15",
+        "peso": "500g"
+    },
+    {
+        "id": 7,
+        "nome": "Doce de Leite em Barra",
+        "categoria": "Doces",
+        "preco": 10.00,
+        "descricao": "Doce de leite em barra",
+        "quantidade_em_estoque": 60,
+        "data_de_validade": "2024-10-01",
+        "peso": "200g"
+    },
+    {
+        "id": 8,
+        "nome": "Mel de Abelha",
+        "categoria": "Doces",
+        "preco": 20.00,
+        "descricao": "Mel de abelha puro",
+        "quantidade_em_estoque": 35,
+        "data_de_validade": "2025-01-01",
+        "peso": "1kg"
+    },
+    {
+        "id": 9,
+        "nome": "Queijo Padrão",
+        "categoria": "Laticínios",
+        "preco": 28.00,
+        "descricao": "Queijo padrão artesanal",
+        "quantidade_em_estoque": 22,
+        "data_de_validade": "2024-08-15",
+        "peso": "1kg"
+    },
+    {
+        "id": 10,
+        "nome": "Requeijão",
+        "categoria": "Laticínios",
+        "preco": 12.00,
+        "descricao": "Requeijão cremoso",
+        "quantidade_em_estoque": 45,
+        "data_de_validade": "2024-09-01",
+        "peso": "250g"
+    }
+]
