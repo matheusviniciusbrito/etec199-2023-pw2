@@ -16,28 +16,9 @@ app.use(express.static(path.join(__dirname, 'public')));
 // Middleware para processar dados do formulário
 app.use(express.urlencoded({ extended: true }));
 
-// Rota principal - Exibir lista de notícias
-app.get('/', (req, res) => {
-    const noticias = require('./data/noticias.json');
-    res.render('index', { noticias: noticias });
-});
-
-// Rota para notícias individuais
-app.get('/noticia/:id', (req, res) => {
-    const noticias = require('./data/noticias.json');
-    const noticia = noticias.find(n => n.id == req.params.id);
-    if (noticia) {
-        res.render('noticia', { noticia: noticia });
-    } else {
-        res.status(404).send('Notícia não encontrada');
-    }
-});
-
-// Rota para processar o formulário
-app.post('/noticia', (req, res) => {
-    const noticiaId = req.body.id;
-    res.redirect(`/noticia/${noticiaId}`);
-});
+// Usar as rotas definidas em router/index.js
+const indexRouter = require('./router/index.js');
+app.use('/', indexRouter);
 
 app.listen(port, () => {
     console.log(`Servidor rodando em http://localhost:${port}`);
