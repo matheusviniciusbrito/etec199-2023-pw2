@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "titulo": "Revolução na Grade Curricular da ETEC: Node.js Substitui PHP",
+    "sub-titulo": "Mudança Importante",
+    "conteudo": "Em uma decisão surpreendente, o professor Everson anunciou que a disciplina de Programação Web da ETEC terá uma grande mudança na grade curricular. A partir deste semestre, os alunos estudarão Node.js em vez de PHP. A mudança foi amplamente elogiada pelos estudantes, que consideram a nova tecnologia mais alinhada com as demandas do mercado de trabalho.",
+    "autor": "Anderson Reis",
+    "data": "02/06",
+    "imagem": "img/news-700x435-1.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Crise no Processo Seletivo do CPS: Falta de Professores Atrasará Novo Ano Letivo",
+    "sub-titulo": "Reinício Necessário",
+    "conteudo": "O Centro Paula Souza (CPS) enfrenta dificuldades após a desistência de diversos professores no processo seletivo. A ausência de docentes qualificados levou à necessidade de reiniciar o processo de contratação, o que pode impactar o início do próximo ano letivo. A comunidade escolar está preocupada com os possíveis atrasos.",
+    "autor": "Anderson Reis",
+    "data": "02/06",
+    "imagem": "img/news-700x435-2.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Alunos Desenvolvem Sistema Inovador de Agendamento de Laboratórios",
+    "sub-titulo": "Tecnologia e Educação",
+    "conteudo": "Os alunos do 2º ano de Desenvolvimento de Sistemas (2DS), liderados por Yan, estão desenvolvendo um sistema inovador para a ETEC. Chamado de Sistema de Agendamento de Laboratórios (SAL), o projeto visa melhorar a organização e o uso dos laboratórios da escola. Mais informações serão divulgadas em breve, mas a expectativa é alta.",
+    "autor": "Matheus Vinicius",
+    "data": "02/06",
+    "imagem": "img/news-700x435-3.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Professor Everson: O Mentor Inspirador Recebe Homenagem dos Alunos",
+    "sub-titulo": "Reconhecimento e Gratidão",
+    "conteudo": "Os alunos da ETEC têm expressado grande admiração pelo professor Everson, que se destacou não só pela qualidade de suas aulas, mas também pelo apoio e dedicação que oferece aos estudantes. Em um ato de reconhecimento, os alunos esperam receber uma boa avaliação no projeto em andamento, refletindo o esforço coletivo e a orientação do professor.",
+    "autor": "Matheus Vinicius",
+    "data": "02/06",
+    "imagem": "img/news-700x435-4.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Manhã de Integração: Alunos do 2DS Organizam Café da Manhã Especial",
+    "sub-titulo": "Confraternização",
+    "conteudo": "Os alunos do 2º ano de Desenvolvimento de Sistemas organizaram um café da manhã especial para promover a integração e a confraternização entre os colegas. O evento foi um sucesso, com uma variedade de comidas e bebidas que agradaram a todos. Essa iniciativa reforça os laços de amizade e colaboração dentro da turma.",
+    "autor": "Matheus Vinicius",
+    "data": "02/06",
+    "imagem": "img/news-700x435-5.jpg"
+  }
+]
+  
